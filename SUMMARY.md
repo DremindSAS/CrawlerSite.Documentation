@@ -5,9 +5,9 @@
 * [Getting Started](getting-started.md)
 * Installing Crawler Site
   * In CMS
-    * Wordpress
-    * Drupal
-    * Joomla!
+    * [Wordpress](wordpress.md)
+    * [Drupal](drupal.md)
+    * [Joomla!](joomla!.md)
     * Google Tag Manager
     * Instapage
     * LightCMS
