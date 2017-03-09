@@ -1,7 +1,7 @@
 # Summary
 
 * [What is Crawler Site](README.md)
-* [Crawler Site vs. alternatives](chapter1.md)
+* [Crawler Site vs. alternatives](CrawlerSiteVSAlternatives.md)
 * [Getting Started](getting-started.md)
 * Installing Crawler Site
   * In CMS
