@@ -1,3 +1,14 @@
-# My Awesome Book
+# What is Crawler Site
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Crawler Site is a platform to analize web sites in real time, providing formated reports like Heatmaps, Funnels and so on.
+
+We have five principal services:
+
+* Heatmaps
+* Remote Administration Tool \(RAT\)
+* Form Analysis
+* Screen Recorder
+* Funnels
+
+But in our Early Access we offer the first two services.
+
